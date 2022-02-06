@@ -1,0 +1,2 @@
+# Tracking-Peruvian-GDP-in-real-time-using-electricity-market-data
+GDP is the most widely used measure of the level of economic activity. However, the GDP is usually published after the date of registration of the information. On the other hand, various investigations show that the demand for electrical energy is a coincident indicator of GDP. Therefore, electricity demand records have been extracted and used as a proxy in a model to explore the evolution of GDP in real time.
